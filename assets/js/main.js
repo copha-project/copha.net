@@ -68,9 +68,6 @@
     });
   });
 
-  // ===== wow js
-  new WOW().init();
-
   // ====== scroll top js
   function scrollTo(element, to = 0, duration = 500) {
     const start = element.scrollTop;
